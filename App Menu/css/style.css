@@ -1,0 +1,58 @@
+/*
+App menu
+http://www.bholait.com
+*/
+
+/*-----------------------------------------------------------------------------------*/
+							/*	Design By Md Mizanur Rahaman Santo */							
+/*-----------------------------------------------------------------------------------*/
+
+/*Code Start*/
+*{
+	padding: 0px;
+	margin: 0px;
+	border: 0px;
+}
+
+
+.content{
+	width: 300px;
+	height: 500px;
+	background: white;
+	margin: 0px auto;
+	margin-top: 40px;
+	box-shadow: 0px 0px 14px 9px #eadede;
+	border-radius: 30px;
+}
+.sidebar1{
+	width: 150px;
+	float: left;
+}
+
+.sidebar2{
+	width: 150px;
+	float: left;
+}
+
+.content ul li{
+	list-style: none;
+	background:white;
+	box-shadow: 0px 0px 6px 4px #f2ebeb;
+	text-align: center;
+	padding: 15px 0px 15px 0px;
+	margin: 30px 30px 30px 30px;
+	border-radius: 10px;
+}
+
+.content ul li a{
+	text-decoration: none;
+	font-family: fontawesome;
+	color: #2f4ab7;
+	font-size: 40px;
+	
+	
+}
+
+.footer{
+	text-align: center;
+}
